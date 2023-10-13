@@ -6,7 +6,7 @@ Scanner-Riverse-String-Cipher
 ### Steps
 1. The users type their favourite anime character. (If the name contains a couple words, the users have to use '_'.)
 2. The users type the reason why they love that character. (The users have to use '_' instead of using white spaces to write the sentence)
-3. The users type their favourite haracter's age.
+3. The users type their favourite character's age.
 4. The users get the cipher.
 
 
