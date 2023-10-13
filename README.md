@@ -15,3 +15,4 @@ Java, Mark Down
 
 ## Result
 
+![The result image](./Solution/Resources/result.png)
